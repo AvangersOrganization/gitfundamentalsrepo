@@ -1,0 +1,7 @@
+
+name: Node.js Build Workflow
+
+on:
+  push:
+    branches:
+      - main
